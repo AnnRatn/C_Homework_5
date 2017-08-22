@@ -70,7 +70,7 @@ namespace C_Homework_5
             Added.Invoke(this, item);
         }
 
-        //Отчищение списка
+        //Очищение списка
         public void Clear()
         {
             first = null;
